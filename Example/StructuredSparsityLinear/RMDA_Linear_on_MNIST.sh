@@ -1,0 +1,1 @@
+python train.py --optimizer="RMDA" --lr=1e-1 --momentum=1e-1

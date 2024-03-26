@@ -1,0 +1,1 @@
+python train.py --optimizer="ProxSGD" --lr=1e-1

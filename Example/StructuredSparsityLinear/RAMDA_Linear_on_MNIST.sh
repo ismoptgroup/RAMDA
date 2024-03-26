@@ -1,0 +1,1 @@
+python train.py --optimizer="RAMDA" --lr=1e-2 --momentum=1e-2

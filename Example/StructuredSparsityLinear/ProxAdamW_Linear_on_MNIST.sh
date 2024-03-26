@@ -1,0 +1,1 @@
+python train.py --optimizer="ProxAdamW" --lr=1e-3
