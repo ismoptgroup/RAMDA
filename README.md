@@ -5,7 +5,7 @@ Additionally, we have included [ProxGen](https://proceedings.neurips.cc/paper/20
 Details of RMDA and RAMDA can be found in the following papers:
 > (RMDA) [ICLR 2022] Zih-Syuan Huang, Ching-pei Lee, *Training Structured Neural Networks Through Manifold Identification and Variance Reduction*[[arXiv](https://arxiv.org/abs/2112.02612)]
 
-> (RAMDA) [Preprint] Zih-Syuan Huang, Ching-pei Lee, *Regularized Adaptive Momentum Dual Averaging with an Efficient
+> (RAMDA) [NeurIPS 2024] Zih-Syuan Huang, Ching-pei Lee, *Regularized Adaptive Momentum Dual Averaging with an Efficient
 Inexact Subproblem Solver for Training Structured Neural Networks*[[arXiv](https://arxiv.org/abs/2403.14398)]
 
 Based on the evidence presented in the papers above, we recommend that users try our RMDA and RAMDA first when training structured neural network models.
